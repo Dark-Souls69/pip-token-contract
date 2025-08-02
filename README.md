@@ -1,9 +1,3 @@
-# 🐾 Paws In Peace Token ($PIP)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue)
-![Polygon](https://img.shields.io/badge/Deployed%20on-Polygon-5c47f5)
-![Token Supply](https://img.shields.io/badge/Supply-5T%20PIP-blueviolet)
-
 **$PIP** is the official ERC-20 utility token for the **Paws In Peace** ecosystem — a blockchain-powered pet cremation and memorial service that merges compassion with crypto.
 
 # 🐾 Paws In Peace Token ($PIP)
